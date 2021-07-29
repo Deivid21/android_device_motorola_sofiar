@@ -18,12 +18,14 @@
 -->
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Default radius of the software rounded corners. -->
+    <dimen name="rounded_corner_radius">98px</dimen>
+
     <!-- Height of the status bar -->
-    <dimen name="status_bar_height">105.0px</dimen>
-    <dimen name="status_bar_height_landscape">24.0dip</dimen>
-    <dimen name="status_bar_height_portrait">105.0px</dimen>
-
-    <!-- Radius of the software rounded corners. -->
-    <dimen name="rounded_corner_radius">103px</dimen>
-
+    <dimen name="config_viewConfigurationTouchSlop">16dp</dimen>
+    <dimen name="quick_qs_offset_height">122px</dimen>
+    <dimen name="status_bar_height">122px</dimen>
+    <dimen name="status_bar_height_landscape">24dp</dimen>
+    <dimen name="status_bar_height_portrait">122px</dimen>
+    <dimen name="status_bar_icon_size">24dp</dimen>
 </resources>
